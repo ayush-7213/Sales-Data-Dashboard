@@ -128,12 +128,6 @@ The Overview Dashboard is integrated with multiple detailed dashboards for deepe
 * Advanced drill-through capabilities
 
 ---
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repo and submit a pull request.
-
----
 ## Screenshot
 C:\Users\tim34\OneDrive\Pictures\Screenshots\Snapshot of the Dashboard.png
 
